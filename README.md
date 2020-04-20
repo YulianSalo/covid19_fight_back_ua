@@ -12,6 +12,7 @@ AI&ML, Data Operations, IoT, Medical Engineering projects those are towards covi
 
 Good luck!
 
+
 UA
 
 Метою цього репозиторію є згрупувати та спробувати знайти робочі рішення для зупинення спалаху covid-19 в Україні та глобально.
